@@ -1,0 +1,40 @@
+{
+  "identifier" : "FamilyRoadTripLog",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {},
+  "subscriptionGroups" : [
+    {
+      "id" : "FamilyRoadTripLogPro",
+      "localizations" : [],
+      "name" : "FamilyRoadTripLog Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "FamilyRoadTripLogProMonthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlock Auto mileage summary and printable trip map.",
+              "displayName" : "FamilyRoadTripLog Pro Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.shimondeitel.roadtriplog.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "FamilyRoadTripLog Pro Monthly",
+          "subscriptionGroupID" : "FamilyRoadTripLogPro",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
